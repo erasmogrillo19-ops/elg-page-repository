@@ -1,0 +1,36 @@
+.container{
+    text-align: justify;
+}
+
+.cabecalho h1{
+    text-align: center;
+    padding: 50px;
+    color: yellow;
+}
+
+.container h2{
+    text-align: center;
+    color: rgb(0, 140, 255)
+}
+
+.container h3{
+    color: rgb(255, 47, 0);
+}
+
+.row {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.container img{
+    margin-top: 1.0em;
+    margin-bottom: 1.0em;
+}
+
+.cabecalho{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(imagem/cultura.png);
+    height: 15.0em;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,22 @@
+.container{
+    width: 100%;
+}
+
+
+
+.cabecalho{
+    background-image: url(imagem2/alfabeto1.png);
+    height: 100%;
+    width: 100%;
+}
+
+.cabecalho h1{
+    text-align: center;
+    padding: 30px;
+    color: blue;
+}
+
+.row img{
+    width:100%;
+    height: fit-content;
+}
